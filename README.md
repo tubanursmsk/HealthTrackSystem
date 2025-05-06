@@ -18,13 +18,14 @@ Proje, **günlük sağlık verilerini kayıt altına alma**, **analiz etme** ve 
 
 ## 🧱 Katman Yapısı
 
+```
 HealthTrackSystem/
-│
-├── Entities/ # Veri modelleri
-├── DataAccess/ # MongoDB bağlantıları ve CRUD işlemleri
-├── Business/ # Servis katmanı (iş kuralları)
-├── Presentation/ # Program.cs (konsol arayüzü)
-├── README.md
+├── Entities/         # Veri modelleri
+├── DataAccess/       # MongoDB bağlantıları ve CRUD işlemleri
+├── Business/         # Servis katmanı (iş kuralları)
+├── Presentation/     # Program.cs (konsol arayüzü)
+└── README.md
+```
 
 ---
 
@@ -37,9 +38,9 @@ HealthTrackSystem/
 git clone https://github.com/tubanursmsk/HealthTrackSystem.git
 cd HealthTrackSystem
 
-3.MongoDBSettings.cs içinde bağlantı bilgilerini güncelleyin.
-
+3.HealthTrack.cs içinde bağlantı bilgilerini güncelleyin.
 4.Uygulamayı çalıştırın:
+
 dotnet build
 dotnet run
 
@@ -168,16 +169,14 @@ Veri kütüphanesinin olduğu uygulama programlama arayüzü ve doktorlar için 
 📄 [Tez Raporunu Görüntüle (.docx)](Yapay Zekâ Teknolojileri İle Hastalık Tanısı Koyma.docx)
 
 
-🔗 Tanı Robotu Web Sitesi ():
-
-Tanı Robotu Uygulama Ön Yüzü
+## 🔗 Tanı Robotu Uygulama Ön Yüzü
 
 <img width="519" alt="app" src="https://github.com/user-attachments/assets/29ce80c6-e824-4694-8ce7-0797f220c7fb" />
 
 <img width="517" alt="app2" src="https://github.com/user-attachments/assets/91f2a0b3-3872-4c1c-85ef-4c2cd92a4a4e" />
 
 
-Tanı Robotu Yönetim Paneli
+## 🔗 Tanı Robotu Yönetim Paneli
 
 
 <img width="948" alt="1" src="https://github.com/user-attachments/assets/3b4f6889-96d9-4dc9-99ff-48de5658e1d4" />
@@ -217,5 +216,6 @@ Bu proje hem bir mühendislik uygulaması hem de yapay zekâ destekli karar verm
 ---
 
 🏷 Etiketler
-C# MongoDB Sağlık Takip Sistemi Yapay Zekâ Bitirme Projesi
-Console App Katmanlı Mimari AI Healthcare Medical
+`C#` `MongoDB` `Sağlık Takip Sistemi` `Yapay Zekâ` `Bitirme Projesi`  
+`Console App` `Katmanlı Mimari` `AI` `Healthcare` `Medical`
+
