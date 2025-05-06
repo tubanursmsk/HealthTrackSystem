@@ -16,11 +16,11 @@ Proje, **günlük sağlık verilerini kayıt altına alma**, **analiz etme** ve 
 
 ---
 
+
 ## 🧱 Katman Yapısı
 
 HealthTrackSystem/
-
-
+---
 ├── Entities/         # Veri modelleri
 ---
 ├── DataAccess/       # MongoDB bağlantıları ve CRUD işlemleri
@@ -30,6 +30,8 @@ HealthTrackSystem/
 ├── Presentation/     # Program.cs (konsol arayüzü)
 ---
 └── README.md
+---
+
 
 ---
 
