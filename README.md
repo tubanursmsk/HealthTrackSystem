@@ -151,7 +151,8 @@ Visual Studio Code
 
 ## 🧠 Akademik Arka Plan
 
-Bu proje, **"Yapay Zekâ Teknolojileri ile Hastalık Tanısı Koyma"** başlıklı bitirme tezimin devamı niteliğindedir. 
+Bu proje, lisans bitirme tez çalışmam olan  
+**"Yapay Zekâ Teknolojileri ile Hastalık Tanısı Koyma"** başlıklı çalışmanın bir devamı ve teknik uygulamasıdır.
 [Yapay Zekâ Teknolojileri İle Hastalık Tanısı Koyma  .docx](https://github.com/user-attachments/files/20069211/Yapay.Zeka.Teknolojileri.Ile.Hastalik.Tanisi.Koyma.docx)
 
 
