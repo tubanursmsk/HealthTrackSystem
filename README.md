@@ -106,33 +106,24 @@ dotnet run
 <img width="433" alt="image" src="https://github.com/user-attachments/assets/ebc84d4c-ffd0-42eb-9e53-cd7b1dd51a0a" />
 
 9. Son 7 Günün En Aktif Hastası
-
-
 10. Doktora Ait Hastaların Sağlık Özeti
 
 11. Hasta Verilerini CSV Olarak Dışa Aktar
 
 <img width="566" alt="hasta verilerinicvs olarak dışarı aktar" src="https://github.com/user-attachments/assets/e219c881-56cf-42dd-bb6b-31d4c98b1665" />
 
-
-12. Hastanın Son 7 Günlük Adım Analizini Göster
-Hasta ID'si: 6650b77e524a88cb457adb3e
-
-📊 Son 7 Günlük Adım Analizi:
-2025-05-01: 3480 adım
-2025-05-02: 7520 adım
-...
-
-Günlük Ortalama: 5010 adım
-En Çok Adım: 7520 (2025-05-02)
-En Az Adım: 3480 (2025-05-01)
+12. Hastanın Son 7 Günlük Adım 📊 Analizini Göster
 
 <img width="287" alt="Hastanın Son 7 Günlük Adım Analizini Göster" src="https://github.com/user-attachments/assets/61e28e02-cf39-41c0-949a-05d7a213d58c" />
 
 13. Hastanın Anormal Sağlık Verilerini Göster
+
+<img width="253" alt="Hastanın Anormal Sağlık Verilerini Göster" src="https://github.com/user-attachments/assets/a924876e-5d20-4bd6-b6d6-06e880f5c4d3" />
+    
 0. Çıkış
 
 <img width="245" alt="cıkış" src="https://github.com/user-attachments/assets/f0775fe4-4f67-460c-932e-10e58748929f" />
+
 
 ---
 
@@ -140,9 +131,12 @@ En Az Adım: 3480 (2025-05-01)
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/ab4176bf-b33c-45da-adba-96edde2d8553" />
 
+
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/1a8c785d-7978-4acf-9818-2ae11cc0c94a" />
 
+
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/807a1b33-2930-4683-80b8-243987954d5c" />
+
 
 ---
 
@@ -161,7 +155,7 @@ Visual Studio Code
 
 Bu proje, lisans bitirme tez çalışmam olan  
 **"Yapay Zekâ Teknolojileri ile Hastalık Tanısı Koyma"** başlıklı çalışmanın bir devamı ve teknik uygulamasıdır.
-[Yapay Zekâ Teknolojileri İle Hastalık Tanısı Koyma  .docx](https://github.com/user-attachments/files/20069211/Yapay.Zeka.Teknolojileri.Ile.Hastalik.Tanisi.Koyma.docx)
+📄 [Tez Raporunu Görüntüle (.docx)](Yapay Zekâ Teknolojileri İle Hastalık Tanısı Koyma.docx)
 
 
 Tezde geliştirdiğim **Tanı Robotu** adlı web uygulaması:
@@ -173,14 +167,14 @@ Tezde geliştirdiğim **Tanı Robotu** adlı web uygulaması:
 🌐 **Tanı Robotu**:
 Veri kütüphanesinin olduğu uygulama programlama arayüzü ve doktorlar için yönetim panelinden oluşmaktadır. Uygulamayı tasarlarken Php, JavaScript, Html ve CSS ile tasarladığım, kullanıcıların semptomlarını girerek olası hastalıklar hakkında doktorların bilgi alabildiği bir web uygulamasıdır.
 
-📄 [Tez Raporunu Görüntüle (.docx)](Yapay Zekâ Teknolojileri İle Hastalık Tanısı Koyma.docx)
-
 
 ## 🔗 Tanı Robotu Uygulama Ön Yüzü
 
 <img width="519" alt="app" src="https://github.com/user-attachments/assets/29ce80c6-e824-4694-8ce7-0797f220c7fb" />
 
+
 <img width="517" alt="app2" src="https://github.com/user-attachments/assets/91f2a0b3-3872-4c1c-85ef-4c2cd92a4a4e" />
+
 
 
 ## 🔗 Tanı Robotu Yönetim Paneli
@@ -188,11 +182,15 @@ Veri kütüphanesinin olduğu uygulama programlama arayüzü ve doktorlar için 
 
 <img width="948" alt="1" src="https://github.com/user-attachments/assets/3b4f6889-96d9-4dc9-99ff-48de5658e1d4" />
 
+
 <img width="947" alt="2" src="https://github.com/user-attachments/assets/e70847e8-9775-4cbc-84c0-d104c0e497cd" />
+
 
 <img width="408" alt="3" src="https://github.com/user-attachments/assets/48a85e60-63d2-4925-b478-4b5c00483a73" />
 
+
 <img width="409" alt="4" src="https://github.com/user-attachments/assets/13b5dc77-5416-4356-a3dc-3892dedb9599" />
+
 
 ---
 
@@ -207,7 +205,6 @@ HealthTrackSystem, Tanı Robotu projesine konsol tarafında sağlık verisi taki
 - Web tabanlı tanı sistemi semptomları toplar.
 - Kullanıcıya özgü sağlık verileri `HealthTrackSystem` üzerinden MongoDB'de takip edilir.
 - Gelişmiş sorgular ile tanı sonrası sağlık durumu analiz edilir.
-
 
 
 ---
