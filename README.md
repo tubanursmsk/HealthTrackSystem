@@ -70,7 +70,8 @@ dotnet run
 
 1. Hasta Ekle
 
-<img width="164" alt="hastaekle" src="https://github.com/user-attachments/assets/f80cd05b-e2e5-4d3b-976a-ce6d8553194f" />
+
+<img width="164" alt="hastaekle" src="https://github.com/user-attachments/assets/772966e8-5c44-4c02-90bb-e394aa2321c9" />
 
 
 2. Tüm Hastaları Listele
