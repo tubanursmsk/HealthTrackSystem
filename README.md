@@ -19,17 +19,12 @@ Proje, **günlük sağlık verilerini kayıt altına alma**, **analiz etme** ve 
 ## 🧱 Katman Yapısı
 
 HealthTrackSystem/
-```
+
 ├── Entities/         # Veri modelleri
-```
 ├── DataAccess/       # MongoDB bağlantıları ve CRUD işlemleri
-```
 ├── Business/         # Servis katmanı (iş kuralları)
-```
 ├── Presentation/     # Program.cs (konsol arayüzü)
-```
 └── README.md
-```
 
 ---
 
@@ -40,13 +35,21 @@ HealthTrackSystem/
 
 ```indir
 git clone https://github.com/tubanursmsk/HealthTrackSystem.git
+```
+```
 cd HealthTrackSystem
+```
+
 
 3.HealthTrack.cs içinde bağlantı bilgilerini güncelleyin.
 4.Uygulamayı çalıştırın:
-
+```
 dotnet build
+```
+
+```
 dotnet run
+```
 
 ---
 
