@@ -156,10 +156,16 @@ Bu proje, lisans bitirme tez çalışmam olan
 [Yapay Zekâ Teknolojileri İle Hastalık Tanısı Koyma  .docx](https://github.com/user-attachments/files/20069211/Yapay.Zeka.Teknolojileri.Ile.Hastalik.Tanisi.Koyma.docx)
 
 
-Tez kapsamında geliştirdiğim:
+Tezde geliştirdiğim **Tanı Robotu** adlı web uygulaması:
+
+- PHP, JavaScript, HTML ve CSS kullanılarak geliştirilmiştir.
+- Semptom tabanlı sorgulama yaparak olası hastalıkları tespit etmeye yönelik çalışır.
+- Doktorlar için özel bir yönetim paneli içermektedir.
 
 🌐 **Tanı Robotu**:
 Veri kütüphanesinin olduğu uygulama programlama arayüzü ve doktorlar için yönetim panelinden oluşmaktadır. Uygulamayı tasarlarken Php, JavaScript, Html ve CSS ile tasarladığım, kullanıcıların semptomlarını girerek olası hastalıklar hakkında doktorların bilgi alabildiği bir web uygulamasıdır.
+
+📄 [Tez Raporunu Görüntüle (.docx)](Yapay Zekâ Teknolojileri İle Hastalık Tanısı Koyma.docx)
 
 
 🔗 Tanı Robotu Web Sitesi ():
@@ -190,9 +196,13 @@ HealthTrackSystem, Tanı Robotu projesine konsol tarafında sağlık verisi taki
 
 🔁 **Nasıl entegre edildi?**
 
+-> HealthTrackSystem, Tanı Robotu ile entegre edilerek, web üzerinden girilen semptom verilerinin arka planda günlük sağlık verileriyle bağdaştırılmasını ve 
+   ileri analizlerin yapılmasını sağlar.
 - Web tabanlı tanı sistemi semptomları toplar.
 - Kullanıcıya özgü sağlık verileri `HealthTrackSystem` üzerinden MongoDB'de takip edilir.
 - Gelişmiş sorgular ile tanı sonrası sağlık durumu analiz edilir.
+
+
 
 ---
 
@@ -205,6 +215,9 @@ Bu proje hem bir mühendislik uygulaması hem de yapay zekâ destekli karar verm
 - Simülasyon ortamı için veri üretimi
 
 
+---
+
+**Etiketler**: `C#`, `MongoDB`, `Sağlık Takip Sistemi`, `Yapay Zekâ`, `Bitirme Projesi`, `Console App`, `Katmanlı Mimari`, `AI`, `Healthcare`, `Medical`, `Machine Learning`
 
 
 
