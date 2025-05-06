@@ -1,7 +1,7 @@
 # 🩺 HealthTrackSystem
 
-**HealthTrackSystem**, C# dili ve MongoDB veritabanı kullanılarak geliştirilen bir konsol tabanlı sağlık takip sistemidir. Hasta bilgileri, sağlık verileri (adım sayısı, nabız, kan şekeri) kaydedilir ve gelişmiş sorgularla analiz edilir.
-
+**HealthTrackSystem**, C# ve MongoDB kullanılarak geliştirilen, katmanlı mimari yapısına sahip bir **sağlık takip sistemidir**.  
+Proje, **günlük sağlık verilerini kayıt altına alma**, **analiz etme** ve **riskli durumları tespit etme** amacıyla gerçek dünya senaryosuna uygun olarak tasarlanmıştır.
 ---
 
 ## 🚀 Özellikler
@@ -214,16 +214,8 @@ Bu proje hem bir mühendislik uygulaması hem de yapay zekâ destekli karar verm
 - Gerçek zamanlı kullanıcı verisi takibi
 - Simülasyon ortamı için veri üretimi
 
-
 ---
 
-**Etiketler**: `C#`, `MongoDB`, `Sağlık Takip Sistemi`, `Yapay Zekâ`, `Bitirme Projesi`, `Console App`, `Katmanlı Mimari`, `AI`, `Healthcare`, `Medical`, `Machine Learning`
-
-
-
-
-
-
-
-
-
+🏷 Etiketler
+C# MongoDB Sağlık Takip Sistemi Yapay Zekâ Bitirme Projesi
+Console App Katmanlı Mimari AI Healthcare Medical
