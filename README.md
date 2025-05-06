@@ -61,7 +61,51 @@ dotnet run
 
 ---
 
-📷 Konsol Görüntüsü (örnek)
+📷 Konsol Görüntüleri
+
+1. Hasta Ekle
+
+<img width="164" alt="hastaekle" src="https://github.com/user-attachments/assets/f80cd05b-e2e5-4d3b-976a-ce6d8553194f" />
+
+
+2. Tüm Hastaları Listele
+
+<img width="160" alt="tümhastaları listele" src="https://github.com/user-attachments/assets/64d2814b-c43b-448c-9c98-e095bba50ec7" />
+
+
+3. Sağlık Verisi Ekle
+
+<img width="179" alt="sağlıkverisiekle" src="https://github.com/user-attachments/assets/33a8ae30-b592-43f3-8ae9-b439afa83882" />
+
+4. Hastanın Sağlık Verilerini Listele
+
+<img width="253" alt="hastasağlıkverisilistele" src="https://github.com/user-attachments/assets/7141702f-d3e2-4ab7-bc35-c611088721f2" />
+
+5. Hastanın Son 7 Günlük Ortalama Nabzı
+
+<img width="200" alt="hastanın7günort" src="https://github.com/user-attachments/assets/4b018168-6d5d-4335-b110-db995f9c648e" />
+
+6. Doktor Ekle
+
+<img width="278" alt="doktorekle" src="https://github.com/user-attachments/assets/7585e982-9873-4b20-bedc-23646d7b209c" />
+
+7. Doktorları Listele
+
+<img width="237" alt="doktorlistele" src="https://github.com/user-attachments/assets/bd5c70cf-0843-4eb5-9744-82b9a1a50aa1" />
+
+8. Riskli Hastaları Listele
+
+<img width="433" alt="image" src="https://github.com/user-attachments/assets/ebc84d4c-ffd0-42eb-9e53-cd7b1dd51a0a" />
+
+9. Son 7 Günün En Aktif Hastası
+
+
+10. Doktora Ait Hastaların Sağlık Özeti
+
+11. Hasta Verilerini CSV Olarak Dışa Aktar
+
+<img width="566" alt="hasta verilerinicvs olarak dışarı aktar" src="https://github.com/user-attachments/assets/e219c881-56cf-42dd-bb6b-31d4c98b1665" />
+
 
 12. Hastanın Son 7 Günlük Adım Analizini Göster
 Hasta ID'si: 6650b77e524a88cb457adb3e
@@ -74,6 +118,23 @@ Hasta ID'si: 6650b77e524a88cb457adb3e
 Günlük Ortalama: 5010 adım
 En Çok Adım: 7520 (2025-05-02)
 En Az Adım: 3480 (2025-05-01)
+
+<img width="287" alt="Hastanın Son 7 Günlük Adım Analizini Göster" src="https://github.com/user-attachments/assets/61e28e02-cf39-41c0-949a-05d7a213d58c" />
+
+13. Hastanın Anormal Sağlık Verilerini Göster
+0. Çıkış
+
+<img width="245" alt="cıkış" src="https://github.com/user-attachments/assets/f0775fe4-4f67-460c-932e-10e58748929f" />
+
+---
+
+📊 🔁 📊 MongoDB Kullanımı
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/ab4176bf-b33c-45da-adba-96edde2d8553" />
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/1a8c785d-7978-4acf-9818-2ae11cc0c94a" />
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/807a1b33-2930-4683-80b8-243987954d5c" />
 
 ---
 
