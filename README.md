@@ -1,7 +1,7 @@
 # 🩺 HealthTrackSystem
 
-**HealthTrackSystem**, C# dili ve MongoDB veritabanı kullanılarak geliştirilen bir konsol tabanlı sağlık takip sistemidir. Hasta bilgileri, sağlık verileri (adım sayısı, nabız, kan şekeri) kaydedilir ve gelişmiş sorgularla analiz edilir.
-
+**HealthTrackSystem**, C# ve MongoDB kullanılarak geliştirilen, katmanlı mimari yapısına sahip bir **sağlık takip sistemidir**.  
+Proje, **günlük sağlık verilerini kayıt altına alma**, **analiz etme** ve **riskli durumları tespit etme** amacıyla gerçek dünya senaryosuna uygun olarak tasarlanmıştır.
 ---
 
 ## 🚀 Özellikler
@@ -19,12 +19,17 @@
 ## 🧱 Katman Yapısı
 
 HealthTrackSystem/
-│
-├── Entities/ # Veri modelleri
-├── DataAccess/ # MongoDB bağlantıları ve CRUD işlemleri
-├── Business/ # Servis katmanı (iş kuralları)
-├── Presentation/ # Program.cs (konsol arayüzü)
-├── README.md
+```
+├── Entities/         # Veri modelleri
+```
+├── DataAccess/       # MongoDB bağlantıları ve CRUD işlemleri
+```
+├── Business/         # Servis katmanı (iş kuralları)
+```
+├── Presentation/     # Program.cs (konsol arayüzü)
+```
+└── README.md
+```
 
 ---
 
@@ -37,9 +42,9 @@ HealthTrackSystem/
 git clone https://github.com/tubanursmsk/HealthTrackSystem.git
 cd HealthTrackSystem
 
-3.MongoDBSettings.cs içinde bağlantı bilgilerini güncelleyin.
-
+3.HealthTrack.cs içinde bağlantı bilgilerini güncelleyin.
 4.Uygulamayı çalıştırın:
+
 dotnet build
 dotnet run
 
@@ -156,22 +161,26 @@ Bu proje, lisans bitirme tez çalışmam olan
 [Yapay Zekâ Teknolojileri İle Hastalık Tanısı Koyma  .docx](https://github.com/user-attachments/files/20069211/Yapay.Zeka.Teknolojileri.Ile.Hastalik.Tanisi.Koyma.docx)
 
 
-Tez kapsamında geliştirdiğim:
+Tezde geliştirdiğim **Tanı Robotu** adlı web uygulaması:
+
+- PHP, JavaScript, HTML ve CSS kullanılarak geliştirilmiştir.
+- Semptom tabanlı sorgulama yaparak olası hastalıkları tespit etmeye yönelik çalışır.
+- Doktorlar için özel bir yönetim paneli içermektedir.
 
 🌐 **Tanı Robotu**:
 Veri kütüphanesinin olduğu uygulama programlama arayüzü ve doktorlar için yönetim panelinden oluşmaktadır. Uygulamayı tasarlarken Php, JavaScript, Html ve CSS ile tasarladığım, kullanıcıların semptomlarını girerek olası hastalıklar hakkında doktorların bilgi alabildiği bir web uygulamasıdır.
 
+📄 [Tez Raporunu Görüntüle (.docx)](Yapay Zekâ Teknolojileri İle Hastalık Tanısı Koyma.docx)
 
-🔗 Tanı Robotu Web Sitesi ():
 
-Tanı Robotu Uygulama Ön Yüzü
+## 🔗 Tanı Robotu Uygulama Ön Yüzü
 
 <img width="519" alt="app" src="https://github.com/user-attachments/assets/29ce80c6-e824-4694-8ce7-0797f220c7fb" />
 
 <img width="517" alt="app2" src="https://github.com/user-attachments/assets/91f2a0b3-3872-4c1c-85ef-4c2cd92a4a4e" />
 
 
-Tanı Robotu Yönetim Paneli
+## 🔗 Tanı Robotu Yönetim Paneli
 
 
 <img width="948" alt="1" src="https://github.com/user-attachments/assets/3b4f6889-96d9-4dc9-99ff-48de5658e1d4" />
@@ -190,9 +199,13 @@ HealthTrackSystem, Tanı Robotu projesine konsol tarafında sağlık verisi taki
 
 🔁 **Nasıl entegre edildi?**
 
+-> HealthTrackSystem, Tanı Robotu ile entegre edilerek, web üzerinden girilen semptom verilerinin arka planda günlük sağlık verileriyle bağdaştırılmasını ve 
+   ileri analizlerin yapılmasını sağlar.
 - Web tabanlı tanı sistemi semptomları toplar.
 - Kullanıcıya özgü sağlık verileri `HealthTrackSystem` üzerinden MongoDB'de takip edilir.
 - Gelişmiş sorgular ile tanı sonrası sağlık durumu analiz edilir.
+
+
 
 ---
 
@@ -204,13 +217,9 @@ Bu proje hem bir mühendislik uygulaması hem de yapay zekâ destekli karar verm
 - Gerçek zamanlı kullanıcı verisi takibi
 - Simülasyon ortamı için veri üretimi
 
+---
 
-
-
-
-
-
-
-
-
+🏷 Etiketler
+`C#` `MongoDB` `Sağlık Takip Sistemi` `Yapay Zekâ` `Bitirme Projesi`  
+`Console App` `Katmanlı Mimari` `AI` `Healthcare` `Medical`
 
