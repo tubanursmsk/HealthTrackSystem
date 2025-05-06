@@ -23,8 +23,11 @@ HealthTrackSystem/
 ├── Entities/         # Veri modelleri
 ```
 ├── DataAccess/       # MongoDB bağlantıları ve CRUD işlemleri
+```
 ├── Business/         # Servis katmanı (iş kuralları)
+```
 ├── Presentation/     # Program.cs (konsol arayüzü)
+```
 └── README.md
 ```
 
