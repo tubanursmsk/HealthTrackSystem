@@ -72,6 +72,7 @@ dotnet run
 
 
 <img width="164" alt="hastaekle" src="https://github.com/user-attachments/assets/772966e8-5c44-4c02-90bb-e394aa2321c9" />
+<img width="164" alt="hastaekle" src="https://github.com/user-attachments/assets/2320e45c-d1fa-4cda-986e-c1bcedb50df7" />
 
 
 2. Tüm Hastaları Listele
