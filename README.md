@@ -160,7 +160,7 @@ dotnet add package MongoDB.Driver --version 3.4.0
 
 ---
 
-📦 Teknolojiler
+## 📦 Teknolojiler
 
 - C# (.NET 9)
 - MongoDB (NoSQL)
