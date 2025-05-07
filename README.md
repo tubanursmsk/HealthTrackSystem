@@ -191,6 +191,7 @@ Bu proje, lisans bitirme tez çalışmam olan
 
 <img width="519" alt="app" src="https://github.com/user-attachments/assets/29ce80c6-e824-4694-8ce7-0797f220c7fb" />
 
+---
 
 <img width="517" alt="app2" src="https://github.com/user-attachments/assets/91f2a0b3-3872-4c1c-85ef-4c2cd92a4a4e" />
 
@@ -203,15 +204,15 @@ Bu proje, lisans bitirme tez çalışmam olan
 
 <img width="948" alt="1" src="https://github.com/user-attachments/assets/3b4f6889-96d9-4dc9-99ff-48de5658e1d4" />
 
-
+---
 
 <img width="947" alt="2" src="https://github.com/user-attachments/assets/e70847e8-9775-4cbc-84c0-d104c0e497cd" />
 
-
+---
 
 <img width="408" alt="3" src="https://github.com/user-attachments/assets/48a85e60-63d2-4925-b478-4b5c00483a73" />
 
-
+---
 
 <img width="409" alt="4" src="https://github.com/user-attachments/assets/13b5dc77-5416-4356-a3dc-3892dedb9599" />
 
