@@ -58,18 +58,17 @@ dotnet build
 dotnet run
 ```
 
-# 🔗 VSCode terminalinde bunlardan birini eklemeyi unutma: 
+### 🔗 VSCode terminalinde bunlardan birini eklemeyi unutma: 
 
 ```
 dotnet add package MongoDB.Driver
 ```
 - MongoDB.Driver: MongoDB veritabanıyla çalışmak için gerekli .NET kütüphanesidir.
 
-- -version 3.4.0: Belirli bir sürümü yükler, ama bu sürüm güncel değilse hata alabilir ya da bazı yeni özellikleri kullanamazsın.
-
 ```
 dotnet add package MongoDB.Driver --version 3.4.0
 ```
+- -version 3.4.0: Belirli bir sürümü yükler, ama bu sürüm güncel değilse hata alabilir ya da bazı yeni özellikleri kullanamazsın.
 
 
 ---
@@ -179,14 +178,13 @@ Bu proje, lisans bitirme tez çalışmam olan
 📄 [Tez Raporunu Görüntüle (.docx)](Yapay Zekâ Teknolojileri İle Hastalık Tanısı Koyma.docx)
 
 
-Tezde geliştirdiğim **Tanı Robotu** adlı web uygulaması:
+### 🌐 Tezde geliştirdiğim **Tanı Robotu** adlı web uygulaması:
 
 - PHP, JavaScript, HTML ve CSS kullanılarak geliştirilmiştir.
 - Semptom tabanlı sorgulama yaparak olası hastalıkları tespit etmeye yönelik çalışır.
 - Doktorlar için özel bir yönetim paneli içermektedir.
 
-🌐 **Tanı Robotu**:
-Veri kütüphanesinin olduğu uygulama programlama arayüzü ve doktorlar için yönetim panelinden oluşmaktadır. Uygulamayı tasarlarken Php, JavaScript, Html ve CSS ile tasarladığım, kullanıcıların semptomlarını girerek olası hastalıklar hakkında doktorların bilgi alabildiği bir web uygulamasıdır.
+---
 
 
 ## 🔗 Tanı Robotu Uygulama Ön Yüzü
@@ -197,6 +195,8 @@ Veri kütüphanesinin olduğu uygulama programlama arayüzü ve doktorlar için 
 <img width="517" alt="app2" src="https://github.com/user-attachments/assets/91f2a0b3-3872-4c1c-85ef-4c2cd92a4a4e" />
 
 
+---
+
 
 ## 🔗 Tanı Robotu Yönetim Paneli
 
@@ -204,16 +204,20 @@ Veri kütüphanesinin olduğu uygulama programlama arayüzü ve doktorlar için 
 <img width="948" alt="1" src="https://github.com/user-attachments/assets/3b4f6889-96d9-4dc9-99ff-48de5658e1d4" />
 
 
+
 <img width="947" alt="2" src="https://github.com/user-attachments/assets/e70847e8-9775-4cbc-84c0-d104c0e497cd" />
 
 
+
 <img width="408" alt="3" src="https://github.com/user-attachments/assets/48a85e60-63d2-4925-b478-4b5c00483a73" />
+
 
 
 <img width="409" alt="4" src="https://github.com/user-attachments/assets/13b5dc77-5416-4356-a3dc-3892dedb9599" />
 
 
 ---
+
 
 ## 🔗 Entegrasyon
 
@@ -229,6 +233,7 @@ HealthTrackSystem, Tanı Robotu projesine konsol tarafında sağlık verisi taki
 
 
 ---
+
 
 ## 🎯 Akademik Katkı
 
