@@ -58,6 +58,20 @@ dotnet build
 dotnet run
 ```
 
+# 🔗 VSCode terminalinde bunlardan birini eklemeyi unutma: 
+
+```
+dotnet add package MongoDB.Driver
+```
+-MongoDB.Driver: MongoDB veritabanıyla çalışmak için gerekli .NET kütüphanesidir.
+
+--version 3.4.0: Belirli bir sürümü yükler, ama bu sürüm güncel değilse hata alabilir ya da bazı yeni özellikleri kullanamazsın.
+
+```
+dotnet add package MongoDB.Driver --version 3.4.0
+```
+
+
 ---
 
 ## 🧪 Örnek Fonksiyonlar
@@ -149,11 +163,11 @@ dotnet run
 
 📦 Teknolojiler
 
-C# (.NET 9)
-MongoDB (NoSQL)
-ADO.NET
-MongoDB Driver
-Visual Studio Code
+- C# (.NET 9)
+- MongoDB (NoSQL)
+- ADO.NET
+- MongoDB Driver
+- Visual Studio Code
 
 ---
 
