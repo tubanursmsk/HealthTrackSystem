@@ -212,7 +212,6 @@ Bu proje, lisans bitirme tez çalışmam olan
 
 <img width="408" alt="3" src="https://github.com/user-attachments/assets/48a85e60-63d2-4925-b478-4b5c00483a73" />
 
----
 
 <img width="409" alt="4" src="https://github.com/user-attachments/assets/13b5dc77-5416-4356-a3dc-3892dedb9599" />
 
