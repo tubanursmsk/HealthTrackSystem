@@ -225,7 +225,7 @@ HealthTrackSystem, Tanı Robotu projesine konsol tarafında sağlık verisi taki
 
 🔁 **Nasıl entegre edildi?**
 
--> HealthTrackSystem, Tanı Robotu ile entegre edilerek, web üzerinden girilen semptom verilerinin arka planda günlük sağlık verileriyle bağdaştırılmasını ve 
+- HealthTrackSystem, Tanı Robotu ile entegre edilerek, web üzerinden girilen semptom verilerinin arka planda günlük sağlık verileriyle bağdaştırılmasını ve 
    ileri analizlerin yapılmasını sağlar.
 - Web tabanlı tanı sistemi semptomları toplar.
 - Kullanıcıya özgü sağlık verileri `HealthTrackSystem` üzerinden MongoDB'de takip edilir.
