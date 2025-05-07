@@ -1,8 +1,9 @@
 ## 🩺 HealthTrackSystem
 
----
-**HealthTrackSystem**, C# ve MongoDB kullanılarak geliştirilen, katmanlı mimari yapısına sahip bir **sağlık takip sistemidir**.  
-Proje, **günlük sağlık verilerini kayıt altına alma**, **analiz etme** ve **riskli durumları tespit etme** amacıyla gerçek dünya senaryosuna uygun olarak tasarlanmıştır.
+
+- **HealthTrackSystem**, C# ve MongoDB kullanılarak geliştirilen, katmanlı mimari yapısına sahip bir **sağlık takip sistemidir**.  
+- Proje, **günlük sağlık verilerini kayıt altına alma**, **analiz etme** ve **riskli durumları tespit etme** amacıyla gerçek dünya senaryosuna uygun olarak tasarlanmıştır.
+- 
 ---
 
 
