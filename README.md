@@ -63,9 +63,9 @@ dotnet run
 ```
 dotnet add package MongoDB.Driver
 ```
--MongoDB.Driver: MongoDB veritabanıyla çalışmak için gerekli .NET kütüphanesidir.
+- MongoDB.Driver: MongoDB veritabanıyla çalışmak için gerekli .NET kütüphanesidir.
 
---version 3.4.0: Belirli bir sürümü yükler, ama bu sürüm güncel değilse hata alabilir ya da bazı yeni özellikleri kullanamazsın.
+- -version 3.4.0: Belirli bir sürümü yükler, ama bu sürüm güncel değilse hata alabilir ya da bazı yeni özellikleri kullanamazsın.
 
 ```
 dotnet add package MongoDB.Driver --version 3.4.0
