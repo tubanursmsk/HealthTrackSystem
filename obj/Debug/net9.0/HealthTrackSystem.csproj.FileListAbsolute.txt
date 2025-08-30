@@ -68,3 +68,4 @@ C:\Users\PC\Documents\HealthTrackSystem\HealthTrackSystem\obj\Debug\net9.0\refin
 C:\Users\PC\Documents\HealthTrackSystem\HealthTrackSystem\obj\Debug\net9.0\HealthTrackSystem.pdb
 C:\Users\PC\Documents\HealthTrackSystem\HealthTrackSystem\obj\Debug\net9.0\HealthTrackSystem.genruntimeconfig.cache
 C:\Users\PC\Documents\HealthTrackSystem\HealthTrackSystem\obj\Debug\net9.0\ref\HealthTrackSystem.dll
+C:\Users\PC\Documents\HealthTrackSystem\HealthTrackSystem\obj\Debug\net9.0\HealthTrackSystem.sourcelink.json
