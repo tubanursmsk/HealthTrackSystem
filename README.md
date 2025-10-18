@@ -20,9 +20,9 @@
 ---
 
 
-# 🧱 Katman Yapısı
+## 🧱 Katman Yapısı
 
-```java
+```bash
 HealthTrackSystem/
 │
 ├── Entities/         # Veri modelleri
